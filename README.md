@@ -1,5 +1,5 @@
 # Lane-Detection
-- A homework of the cource 'Self-driving Algorithm Develping'.
+- A homework of the cource `Self-driving Algorithm Develping`.
 - The parameters haven't been adujusted, so the results will not be perfect.
 - Nothing special.
 
